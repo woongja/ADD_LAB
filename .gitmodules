@@ -1,3 +1,6 @@
 [submodule "SSL_Fusion_ADD"]
 	path = SSL_Fusion_ADD
 	url = https://github.com/woongja/SSL_Fusion_ADD.git
+[submodule "Cluster-based_learning"]
+	path = Cluster-based_learning
+	url = https://github.com/woongja/Cluster-based_learning.git
