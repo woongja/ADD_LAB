@@ -4,3 +4,9 @@
 [submodule "Cluster-based_learning"]
 	path = Cluster-based_learning
 	url = https://github.com/woongja/Cluster-based_learning.git
+[submodule "Wav-Spec_ADD"]
+	path = Wav-Spec_ADD
+	url = https://github.com/woongja/Wav-Spec_ADD.git
+[submodule "Representation-grounded_XAI"]
+	path = Representation-grounded_XAI
+	url = https://github.com/woongja/Representation-grounded_XAI.git
